@@ -4,7 +4,7 @@ This set of tasks is designed as part of the 90DaysOfDevOps challenge to simulat
 
 Complete each task and document all steps, commands, Screenshots, and observations in a file named `solution.md`. This documentation will serve as both your preparation guide and a portfolio piece for interviews.
 
----
+----
 
 ## Task 1: Create a Jenkins Pipeline Job for CI/CD
 
