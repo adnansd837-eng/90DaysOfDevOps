@@ -17,7 +17,7 @@ Viewed the first few lines using head
 Viewed the last few lines using tail
 
 # Commands I Used
-touch notes.txt
+        touch notes.txt
     echo "Linux File Practice" > notes.txt
     echo "Learning file commands" >> notes.txt
     echo "Practicing every day" | tee -a notes.txt
